@@ -1,5 +1,3 @@
-;;leapYear
-;;
 ;;by Jinzhe Li
 ;;22 October 2018
 ;;
